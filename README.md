@@ -8,8 +8,10 @@
 
  ```js
  const WhoAmI = {
-    fullName: "Génesis Patiño",
-	
+	fullName: "Génesis Patiño",
+	currentEducation: "Software Developer",
+	code: ["Javascript", "Typescript"],
+
 };
 	
  ```
