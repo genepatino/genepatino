@@ -1,30 +1,18 @@
-<img style="width:100%" src="https://github.com/genepatino/genepatino/assets/62777013/d745b6f4-a2a6-48db-a958-add15a3dcf1a"/>
+<img src="https://i.pinimg.com/originals/f5/53/e2/f553e278b569f148d29b411fbdffd3d7.gif" alt="banner image" height="325" width="1000"  margin-right="20"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=1000&lines=Heyyy,+nice+to+see+you!;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 
 ## Who am I?
 
  ```js
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
+ const WhoAmI = {
+    fullName: "Génesis Patiño",
 	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+};
 	
  ```
-
  
 ## Github Stats
 
