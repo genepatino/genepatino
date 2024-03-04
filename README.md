@@ -19,7 +19,7 @@
 	  architecture: ["Single page applications"],
 	  tools: ['Git', 'Git Hub', 'Webpack'],
 	  others: ['Responsive Design', 'Accesibilidad web', 'Mobile First Design']
-  	};
+       };
 };
 
 console.log(
